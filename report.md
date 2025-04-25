@@ -42,6 +42,13 @@ To build an intelligent, interactive chatbot that:
 - Built-in fallback to human agents for unsupported queries.
 - Minimal, responsive user interface built with Streamlit.
 
+## Why the Implemented Approach Was Selected
+
+The chosen approach combines Large Language Models (LLMs) with retrieval-augmented generation (RAG) to leverage both the language understanding capabilities of modern AI models and precise domain-specific information stored in the knowledge base. By embedding and indexing PDF content, the chatbot can provide accurate and contextually relevant answers rather than relying solely on general language model knowledge. This improves answer reliability and relevance, which is critical in the insurance domain where precise details matter.
+
+Additionally, using a vector database like FAISS enables efficient similarity search on large documents, allowing the system to scale with more data without compromising response time. Streamlit was chosen for rapid development of a simple, interactive web interface that requires minimal overhead. Finally, the fallback mechanism ensures that users receive human assistance when the chatbot encounters questions beyond its scope, maintaining customer satisfaction.
+
+  
 ## Conclusion
 
 This chatbot provides an efficient, scalable solution to handle common customer queries in the insurance domain. It reduces the burden on human support teams while offering quick and reliable information. The combination of LLMs, document retrieval, and a clean UI ensures a smooth and informative user experience.
