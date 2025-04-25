@@ -6,7 +6,7 @@ The AI-Powered-Insurance-Policy-Information-Chatbot is a Python application that
 
 ## Video Explanation
 
-https://drive.google.com/drive/folders/1lEITX68GpK0QjKMwYWdKkB95swtRKikV
+https://drive.google.com/drive/folders/1lEITX68GpK0QjKMwYWdKkB95swtRKikV?usp=sharing
 
 ## How It Works
 ------------
