@@ -4,6 +4,10 @@
 ------------
 The AI-Powered-Insurance-Policy-Information-Chatbot is a Python application that allows you to chat with multiple PDF documents regarding insurance or you can ask queries without uploading any document also. You can ask questions about the PDFs/ in general insurance using natural language, and the application will provide relevant responses based on the content of the documents/question provided. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs if uploaded any , else will answer to generic insurance questions too.
 
+## Video Explanation
+
+https://drive.google.com/drive/folders/1lEITX68GpK0QjKMwYWdKkB95swtRKikV
+
 ## How It Works
 ------------
 
@@ -21,7 +25,7 @@ The application follows these steps to provide responses to your questions:
 
 ## Dependencies and Installation
 ----------------------------
-To install the MultiPDF Chat App, please follow these steps:
+To install theAI-Powered-Insurance-Policy-Information-Chatbot, please follow these steps:
 
 1. Clone the repository to your local machine.
 
